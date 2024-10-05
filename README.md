@@ -1,2 +1,2 @@
 # dev-demo
-This is a demo for practice
+This is a demo for practice.
